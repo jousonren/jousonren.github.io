@@ -1,15 +1,13 @@
 ## 欢迎来到我的个人主页
 
-Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术萌新( •̀ ω •́ )y
+### 个人简介
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术萌新( •̀ ω •́ )y剩下的还没想好下次补充
 
 ```markdown
-Syntax highlighted code block
+向着二次元前进
 
-# Header 1
+# 下面是MarkDown的基本格式
 ## Header 2
 ### Header 3
 
@@ -24,12 +22,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+这里是MarkDown在GitHub中的用法 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 页面太丑了
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jousonren/jousonren.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+不过它会越来越好看的的的
 
-### Support or Contact
+### 技术支持
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+下面是在GitHub中主要的代码库
+[直接编辑该页面]（https://github.com/jousonren/jousonren.github.io/edit/master/README.md）.
+[个人商用2D游戏的基本框架]（https://github.com/jousonren/FrameworkIn2DProject）.
