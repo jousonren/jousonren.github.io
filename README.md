@@ -1,8 +1,6 @@
 ## 欢迎来到我的个人主页
 
-You can use the [editor on GitHub](https://github.com/jousonren/jousonren.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术萌新( •̀ ω •́ )y
 
 ### Markdown
 
