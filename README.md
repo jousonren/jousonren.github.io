@@ -32,6 +32,7 @@ Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术
 
 下面是在GitHub中主要的代码库
 
+[github上的MarkDown语法介绍](https://github.com/guodongxiaren/README)
 
 [直接编辑该页面](https://github.com/jousonren/jousonren.github.io/edit/master/README.md)
 
