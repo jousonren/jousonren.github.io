@@ -22,7 +22,7 @@ Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术
 [Link](url) and ![Image](src)
 ```
 
-这里是MarkDown在GitHub中的用法 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+这里是MarkDown在GitHub中的用法 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/ "跳转").
 
 ### 页面太丑了
 
@@ -32,8 +32,8 @@ Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术
 
 下面是在GitHub中主要的代码库
 
-[github上的MarkDown语法介绍](https://github.com/guodongxiaren/README)
+[github上的MarkDown语法介绍](https://github.com/guodongxiaren/README "跳转")
 
-[直接编辑该页面](https://github.com/jousonren/jousonren.github.io/edit/master/README.md)
+[直接编辑该页面](https://github.com/jousonren/jousonren.github.io/edit/master/README.md "跳转")
 
-[个人商用2D游戏的基本框架](https://github.com/jousonren/FrameworkIn2DProject)
+[个人商用2D游戏的基本框架](https://github.com/jousonren/FrameworkIn2DProject "跳转")
