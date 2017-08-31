@@ -36,4 +36,4 @@ Unity前端开发工程师，独立游戏开发者
 
 [直接编辑该页面](https://github.com/jousonren/jousonren.github.io/edit/master/README.md "跳转")
 
-[个人商用2D游戏的基本框架](https://github.com/jousonren/FrameworkIn2DProject "跳转")
+[2D游戏的基本框架](https://github.com/jousonren/FrameworkIn2DProject "跳转")
