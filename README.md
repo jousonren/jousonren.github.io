@@ -2,7 +2,7 @@
 
 ### 个人简介
 
-Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术萌新
+Unity前端开发工程师，独立游戏开发者
 
 ```markdown
 推进
@@ -24,9 +24,9 @@ Unity前端开发工程师，独立游戏开发者，正在向ACG进军的美术
 
 这里是MarkDown在GitHub中的用法 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/ "跳转").
 
-### 页面太丑了
+### 信息概览
 
-不过它会越来越好看的的的
+模式化信息
 
 ### 技术支持
 
